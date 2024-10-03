@@ -22,7 +22,6 @@ StoryFlow is a web application that allows users to create, read, edit, and dele
 
 - **Frontend**: React, React Router, Redux, Tailwind CSS
 - **Backend**: Appwrite
-- **Deployment**: [Your deployment platform here (e.g., Vercel, Netlify)]
 
 ## Installation
 
